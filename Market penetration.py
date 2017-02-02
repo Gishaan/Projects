@@ -1,6 +1,6 @@
 """
 Purpose: To write a program that simulates the adoption of a new product in a market over time 
-Author : Ishaan Gupta, Austin McManus
+Author : Ishaan Gupta
 Date   : October 7, 2016
 Project 2
 CS 112, Fall 2016
